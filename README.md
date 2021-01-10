@@ -24,6 +24,6 @@ A game made in unity for Game Begetter Competiton
 
 >At the begining of the game you can turn ON/OFF the sound if you want.
 
->You can also pause the game whilw you play.
+>You can also pause the game while you play.
 
 Enjoy the game to its fullest!!!!.
