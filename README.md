@@ -4,7 +4,7 @@ A game made in unity for Game Begetter Competiton
 
 *(Important)   I haven't uploaded one folder which has one of the animations(Dance animation at the begining, and avatar of the player )  onto github because it was over 100 mb and I am using the free version of github. Sorry for the trouble.
 
-*(Important) Also because of the above reason i could not upload the Game apk.
+
 
 
 
