@@ -1,14 +1,8 @@
 # GB-207056
-A game made in unity for Game Begetter Competiton
+A game made in unity for "Game Begetter" Competiton conducted in Techfest by IIT Bombay.
 
 
-*(Important)   I haven't uploaded one folder which has one of the animations(Dance animation at the begining, and avatar of the player )  onto github because it was over 100 mb and I am using the free version of github. Sorry for the trouble.
-
-
-
-
-
-# Controls
+### Controls
 
 >Tap on the screen at the begining of the game to start running.
 
