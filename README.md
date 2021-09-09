@@ -2,7 +2,7 @@
 A game made in unity for "Game Begetter" Competiton conducted in Techfest by IIT Bombay.
 
 
-### Controls
+## Controls
 
 >Tap on the screen at the begining of the game to start running.
 
@@ -21,3 +21,13 @@ A game made in unity for "Game Begetter" Competiton conducted in Techfest by IIT
 >You can also pause the game while you play.
 
 Enjoy the game to its fullest!!!!.
+
+## Screenshots
+![GitHub Logo](/images/img1.png)
+
+![GitHub Logo](/images/img2.png)
+
+![GitHub Logo](/images/img3.png)
+
+![GitHub Logo](/images/img4.png)
+
