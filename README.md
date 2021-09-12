@@ -25,6 +25,8 @@ Enjoy the game to its fullest!!!!.
 ## Screenshots
 ![GitHub Logo](/images/img1.png)
 
+![GitHub Logo](/images/img5.png)
+
 ![GitHub Logo](/images/img2.png)
 
 ![GitHub Logo](/images/img3.png)
