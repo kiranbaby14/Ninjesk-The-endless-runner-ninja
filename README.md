@@ -1,4 +1,4 @@
-# GB-207056
+# Ninjesk - The endless runner ninja
 A game made in unity for "Game Begetter" Competiton conducted in Techfest by IIT Bombay.
 
 
